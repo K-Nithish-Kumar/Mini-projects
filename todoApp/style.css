@@ -15,7 +15,7 @@
 
 .todo-app{
     width:100%;
-    border: 1px solid yellow;
+    /* border: 1px solid yellow; */
     max-width: 540px;
     background: #fff;
     margin:100px auto 20px;
